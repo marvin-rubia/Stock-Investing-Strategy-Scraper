@@ -1,5 +1,5 @@
 # Scraping Function for Stock Investing Analysis and Prediction
-This repository develops my Python function to scrape key stock information from Yahoo Finance necessary for a 1-year investment strategy. The result is a dataset with 10 columns, including the target variable. The function can be used to collect more data for analysis and prediction. 
+This repository develops my Python function that scrapes key stock information from Yahoo Finance necessary for a 1-year investment strategy. The result is a dataset with 10 columns, including the target variable. The function can be used to collect more data for analysis and prediction. 
 
 ## Plan
 As a positional stock trader, I want to simulate the experience of deciding whether to buy a stock or not. My goal is to produce a dataset that can be used for analysis and prediction. This is similar to the common trading practice of __backtesting__, which is a process to decide whether a trading system is really profitable, based on its performance using historical prices. Unfortunately, almost all backtesting softwares/platforms out there are not free. Hence, I'll do it on my own in Python.
