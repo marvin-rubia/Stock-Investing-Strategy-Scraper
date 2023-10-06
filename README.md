@@ -1,4 +1,4 @@
-# Scraping Function for Stock Investing Analysis and Prediction
+# Scraper Function for Stock Investing Analysis and Prediction
 This repository develops my Python function that scrapes key stock information from Yahoo Finance necessary for a 1-year investment strategy. The result is a dataset with 10 columns, including the target variable. The function, which utilizes the `yfinance` Python library, can be used to collect more data for analysis and prediction. 
 
 ## Plan
