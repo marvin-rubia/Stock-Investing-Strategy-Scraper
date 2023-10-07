@@ -28,7 +28,7 @@ From the annual report:
 
 7. Debt Ratio (total debt over total assets)
 
-__Target:__ The maximum profit gained within the next 260 days (52 weeks * 5 trading days) after buying the stock.
+__Target:__ The maximum profit gained within the next 260 trading days (52 weeks * 5 trading days) after buying the stock.
 
 ## Snippet of the dataset I produced
 ![image](https://github.com/marvin-rubia/Stock-Investing-Strategy-Scraper/assets/140475770/4d73b390-979a-439c-a562-922334497bf3)
