@@ -4,12 +4,11 @@ This repository develops my Python function that scrapes key stock information f
 ## Plan
 As a positional stock trader, I want to simulate the experience of deciding whether to buy a stock or not. My goal is to produce a dataset that can be used for analysis and prediction. This is similar to the common trading practice of __backtesting__, which is a process to decide whether a trading system is really profitable, based on its performance using historical prices. Unfortunately, almost all backtesting softwares/platforms out there are not free. Hence, I'll do it on my own in Python.
 
+My scraper function should be able to code, determine, and/or calculate the following:
+
 __When to invest? (i.e. signal for investing)__
 
 A day after the annual report is published. Because I need the data from the latest annual report to decide if I will invest in the stock for _this_ year. Thus, I have to code how to get the date of publication for the stock's annual report. 
-
-
-Other data I need to scrape, code, and calculate: 
 
 __Features:__
 1. Buy Price (it is the open price for the next candle after the day the annual report becomes available)
