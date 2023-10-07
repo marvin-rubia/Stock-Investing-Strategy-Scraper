@@ -18,7 +18,8 @@ __Features:__
 
 3. % change from 52Wk Low (expecting Buy Price to be at least 20% above it, because closer to it might indicate a market or stock weakness for whatever reason)
 
-From the annual report:<br>
+From the annual report:
+
 4. Revenue growth (relative to the previous year)
 
 5. Net income growth (relative to the previous year)
