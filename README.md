@@ -9,7 +9,8 @@ __When to invest? (i.e. signal for investing)__
 A day after the annual report is published. Because I need the data from the latest annual report to decide if I will invest in the stock for _this_ year. Thus, I have to code how to get the date of publication for the stock's annual report. 
 
 
-Other data I need to scrape, code, and calculate: <br>
+Other data I need to scrape, code, and calculate: 
+
 __Features:__
 1. Buy Price (it is the open price for the next candle after the day the annual report becomes available)
 
@@ -17,8 +18,7 @@ __Features:__
 
 3. % change from 52Wk Low (expecting Buy Price to be at least 20% above it, because closer to it might indicate a market or stock weakness for whatever reason)
 
-  From the annual report:
-
+From the annual report:
 4. Revenue growth (relative to the previous year)
 
 5. Net income growth (relative to the previous year)
