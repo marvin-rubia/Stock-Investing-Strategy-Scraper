@@ -33,4 +33,4 @@ __Target:__ The maximum profit gained within the next 260 trading days (52 weeks
 ![image](https://github.com/marvin-rubia/Stock-Investing-Strategy-Scraper/assets/140475770/4d73b390-979a-439c-a562-922334497bf3)
 
 ## How to see my work?
-Check the Notebook uploaded in this repository. 
+Check [my Notebook](https://github.com/marvin-rubia/Stock-Investing-Strategy-Scraper/blob/main/Scraper_Function_for_Stock_Investing_Analysis_and_Prediction.ipynb) uploaded in this repository. 
